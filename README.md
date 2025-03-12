@@ -25,6 +25,7 @@ The "Crop Yield Prediction using Machine Learning" project forecasts agricultura
 
 ## Dataset used
 
+- <a href="https://github.com/Madhu-D025/Crop-Yield-Prediction-using-Machine-Learning/blob/main/crop_yield.csv">Dataset</a>
 
 ## Dataset Overview
 
@@ -52,7 +53,6 @@ The "Crop Yield Prediction using Machine Learning" project forecasts agricultura
 
 ## Exploratory Data Analysis (EDA)
 
-
 ✅ Handling missing values using imputation techniques.
 <br>
 ✅ Visualizing correlations between features and loan eligibility.
@@ -64,6 +64,7 @@ The "Crop Yield Prediction using Machine Learning" project forecasts agricultura
 <br>
 
 ## Machine Learning Models Used
+
 
 1) Linear Regression
 <br>
@@ -83,4 +84,8 @@ The "Crop Yield Prediction using Machine Learning" project forecasts agricultura
 4) R-squared (R²):
 
 ## Conclusion
+
+The "Crop Yield Prediction using Machine Learning" project effectively leverages historical agricultural data to build predictive models that can forecast crop yields based on various factors such as crop type, season, state, area, rainfall, fertilizer, and pesticide usage. By analyzing and cleaning the dataset, the project ensures high-quality input for training machine learning algorithms. The insights derived from these models can significantly aid farmers and agricultural planners in optimizing crop production, resource allocation, and decision-making processes. This project not only highlights the potential of machine learning in agriculture but also underscores the importance of data-driven approaches in enhancing sustainable farming practices and improving food security.
+
+
 
