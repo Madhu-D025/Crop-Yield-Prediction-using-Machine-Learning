@@ -65,15 +65,11 @@ The "Crop Yield Prediction using Machine Learning" project forecasts agricultura
 
 ## Machine Learning Models Used
 
-
+<br>
 1) Linear Regression
-<br>
 2) Random Forest Regression
-<br>
 3) KNN
-<br>
 4) Decision Tree Regression
-<br>
 <br>
 
 ## Model Evaluation Metrics
